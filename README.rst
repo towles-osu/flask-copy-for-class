@@ -1,5 +1,6 @@
 Flask
 =====
+SPECIAL NOTE: This is a copy of Flask used to complete a school project and should not be used in any context aside from as a reference for the grader grading my assignment.
 
 Flask is a lightweight `WSGI`_ web application framework. It is designed
 to make getting started quick and easy, with the ability to scale up to
